@@ -22,9 +22,33 @@ margin-right:auto;
 border: solid 2px lightblue;
 
 }
-.title2{
-    width:30%;
-    margin:auto;
+.tile2{
+    float:left;
+     width:230px;
+     margin:10px;
+     height:142px;
+     background-color: grey;
+ }
+ .tile3{
+    float:left;
+     width:230px;
+     margin:10px;
+     height:142px;
+     background-color: rgb(37, 145, 171);
+ }
+ .tile4{
+    float:left;
+     width:230px;
+     margin:10px;
+     height:142px;
+     background-color: rgb(233, 41, 66);
+    }
+.tile1{
+   float:left;
+    width:230px;
+    margin:10px;
+    height:142px;
+    background-color: blue;
 }
 .rectangle{
     width: 960px;
